@@ -138,7 +138,7 @@ img {
 	position: absolute;
 	width: 21.8%;
 	height: 43%; 
-	border: 0.075rem solid black;
+	border: 0.07rem solid black;
 	color: black;
 	z-index: 9;
 	background-color: white;
@@ -304,7 +304,7 @@ img {
 	width: 46.3%;
 	height: 6.5%; 
 	padding: 0.85rem;
-	border: 0.075rem solid black;
+	border: 0.07rem solid black;
 	border-radius: 0.3rem;
 	color: black;
 }
@@ -318,7 +318,7 @@ img {
 	width: 15.5%;
 	height: 3.6%; 
 	padding: 0.28rem;
-	border: 0.075rem solid black;
+	border: 0.07rem solid black;
 	color: black;
 	cursor: pointer;
 }
@@ -332,7 +332,7 @@ img {
 	width: 87.4%;
 	height: 9%; 
 	padding: 0.3rem;
-	border: 0.075rem solid black;
+	border: 0.07rem solid black;
 	color: black;
 }
 .cbox:hover {
@@ -365,7 +365,7 @@ img {
 	margin-left: 0.15rem;
 }
 .v2 {
-	border-left: 0.075rem solid black;
+	border-left: 0.07rem solid black;
 	height: 16rem;
 	position: absolute;
 	margin-left: 0.15rem;
@@ -414,7 +414,7 @@ img {
 	border-top: 0.075rem solid black;
 }
 .accordion li {
-	border-bottom: 0.075rem solid black;
+	border-bottom: 0.07rem solid black;
 	position: relative;
 }
 .accordion li p {
@@ -436,8 +436,8 @@ img {
 .accordion a:after {
 	width: 8px;
 	height: 8px;
-	border-right: 0.075rem solid black;
-	border-bottom: 0.075rem solid black;
+	border-right: 0.07rem solid black;
+	border-bottom: 0.07rem solid black;
 	position: absolute;
 	right: 14px;
 	content: " ";
@@ -448,7 +448,7 @@ img {
 	transition: all 0.2s ease-in-out;
 }
 .accordion p {
-	border-top: 0.075rem solid black;
+	border-top: 0.07rem solid black;
 	font-family: 'input-serif-narrow',serif;
 	font-weight: 400;
 	font-style: normal;	
